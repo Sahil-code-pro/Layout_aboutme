@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_style">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">@dimen/top_margin</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+       <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:textColor">@color/Blackk</item>
+        <item name="android:textSize">@dimen/font_size</item>
+    </style>
+</resources>
